@@ -6,7 +6,7 @@ pipeline {
             steps 
             {
                 sh '''#!/bin/bash
-                echo "success!"
+                echo "webhook success!"
                 '''
             }
         }
